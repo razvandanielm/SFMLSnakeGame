@@ -1,2 +1,2 @@
 # SFMLSnakeGame
-University Project from my 1st year
+University project I wrote in my first year written in C++ using the Simple and Fast Multimedia Library(SFML).
